@@ -105,9 +105,10 @@ middleware 3
 对于koa来讲, next函数是多余与错误的.
 
 正确的koa中间件应该是这样的:
-```
-app.use((ctx) => {
-  ctx.body = "middleware 2\n";
+```js
+app.use(async (ctx) => {
+  ctx.body = "middleware\n";
+  return false;
 });
 ```
 

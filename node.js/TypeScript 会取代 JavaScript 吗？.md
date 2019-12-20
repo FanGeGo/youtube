@@ -49,7 +49,7 @@ Anders Hejlsberg
 著名的商业编译器开发者。
 
 是 Borland 的 Turbo pascal，后来的 Delphi 的作者
-也是 Microsoft 的.net 环境中，C#的作者
+也是 Microsoft 的 .Net 环境中，C#的作者
 
 ---
 
